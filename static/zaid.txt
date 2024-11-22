@@ -1,0 +1,1 @@
+This is a static file. This is a way to render this fole into our server
